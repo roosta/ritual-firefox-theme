@@ -1,0 +1,30 @@
+{
+  "name": "ritual-firefox-theme",
+  "version": "0.1.0",
+  "description": "Ritual themed firefox theme based on the Srcery color palette (2.0.0)",
+  "homepage": "https://github.com/roosta/ritual-firefox-theme",
+  "private": true,
+  "scripts": {
+    "web-ext": "web-ext run -s addon --devtools -f firefox-developer-edition",
+    "build": "web-ext build -s addon -a build --overwrite-dest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roosta/ritual-firefox-theme.git"
+  },
+  "keywords": [],
+  "author": "Daniel Berg",
+  "license": "MIT",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.3.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "devDependencies": {
+    "web-ext": "^10.4.0"
+  }
+}
