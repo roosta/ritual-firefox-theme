@@ -2,6 +2,8 @@
   "manifest_version": 2,
   "version": "0.1",
   "name": "Ritual",
+  "summary": "Dark ritual theme"
+  "description": "Dark ritual themed firefox theme based on the Srcery color palette (2.0.0)",
   "homepage_url": "https://github.com/roosta/ritual-firefox-theme",
   "browser_specific_settings": {
     "gecko": {
