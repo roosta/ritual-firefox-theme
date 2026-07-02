@@ -7,6 +7,7 @@
       "color_scheme": "dark"
     },
     "colors": {
+      "bookmark_text": "#FCE8C3",
       "button_background_active": "#504D47",
       "button_background_hover": "#312F2C",
       "frame": "#121110",
@@ -36,11 +37,10 @@
       "toolbar_field_highlight": "#1E5181",
       "toolbar_field_highlight_text": "#FCE8C3",
       "toolbar_field_text": "#FCE8C3",
-      "toolbar_text": "#FCE8C3",
-      "toolbar_vertical_separator": "#312F2C",
       "toolbar_field_text_focus": "#FCE8C3",
+      "toolbar_text": "#FCE8C3",
       "toolbar_top_separator": "#312F2C",
-      "bookmark_text": "#FCE8C3"
+      "toolbar_vertical_separator": "#312F2C"
     }
   }
 }
