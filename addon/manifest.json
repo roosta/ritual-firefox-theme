@@ -39,7 +39,8 @@
       "toolbar_text": "#FCE8C3",
       "toolbar_vertical_separator": "#312F2C",
       "toolbar_field_text_focus": "#FCE8C3",
-      "toolbar_top_separator": "#312F2C"
+      "toolbar_top_separator": "#312F2C",
+      "bookmark_text": "#FCE8C3"
     }
   }
 }
